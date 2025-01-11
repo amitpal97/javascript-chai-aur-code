@@ -1,0 +1,5 @@
+
+In React, both class components and function components (with hooks) have their own lifecycles
+for managing state, side effects, and rendering. However, function components are preferred in modern
+React because they simplify the codebase by using hooks instead of class-based lifecycles. Here's a comparison
+of the lifecycle in both types of components
