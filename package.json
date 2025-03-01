@@ -3,12 +3,12 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon ./practice.js"
+    "start": "nodemon ./19-feb-25practice.js"
   },
   "author": "",
   "license": "ISC",
   "description": "",
-  "dependencies": {
-    "nodemon": "^3.1.7"
+  "devDependencies": {
+    "nodemon": "^3.1.9"
   }
 }

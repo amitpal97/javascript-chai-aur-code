@@ -18,14 +18,14 @@ function nonRepeatingStr(str) {
         if (countObj[char] === 1) {
 
             countNewObj[char] = countObj[char];
-        }
+        } 
     }
 
     return arr
 
 }
 
-// console.log(nonRepeatingStr("abcgdgddjhdh"));
+console.log(nonRepeatingStr("abcgdgddjhdh"));
 
 
 // logest substring
